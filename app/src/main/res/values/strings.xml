@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ruokalistat</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="favorites">Favorites</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Maanantai"><b>MAANANTAI</b></string>
+    <string name="Tiistai">TIISTAI</string>
+    <string name="Keskiviikko">KESKIVIIKKO</string>
+    <string name="Torstai">TORSTAI</string>
+    <string name="Perjantai">PERJANTAI</string>
+    <string name="Lauantai">LAUANTAI</string>
+    <string name="Sunnuntai">SUNNUNTAI</string>
+    <string name="PlaceholderMenuItem">Jos näet tämän, json-dataa haetaan vielä tai sen hakeminen ei jostain syystä onnistunut</string>
+    <string name="NoMenus">Ei ruokalistoja tälle päivälle</string>
+</resources>
